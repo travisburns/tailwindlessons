@@ -14,6 +14,7 @@ function App() {
     <div className="text-greencust w-96 h-96">
     Text Color
   </div>
+  <p className='text-xs lg:text-3xl'>Text</p>
   </div>
   )
 }
