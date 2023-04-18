@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    
     extend: {
+      colors : {
+        'greencust': "#49e659"
+      },
       fontFamily: {
         'Poppins': ['Poppins'],
       }
