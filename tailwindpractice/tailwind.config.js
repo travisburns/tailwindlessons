@@ -17,7 +17,10 @@ export default {
       },
       fontFamily: {
         'Poppins': ['Poppins'],
-      }
+      },
+      fontSize: {
+        base: '180px'
+      },
     },
   },
   plugins: [],
